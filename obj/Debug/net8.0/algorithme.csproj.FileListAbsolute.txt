@@ -1,0 +1,14 @@
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\bin\Debug\net8.0\algorithme.exe
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\bin\Debug\net8.0\algorithme.deps.json
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\bin\Debug\net8.0\algorithme.runtimeconfig.json
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\bin\Debug\net8.0\algorithme.dll
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\bin\Debug\net8.0\algorithme.pdb
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.AssemblyInfoInputs.cache
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.AssemblyInfo.cs
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.csproj.CoreCompileInputs.cache
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.dll
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\refint\algorithme.dll
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.pdb
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.genruntimeconfig.cache
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\ref\algorithme.dll
