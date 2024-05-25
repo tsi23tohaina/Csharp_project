@@ -12,3 +12,4 @@ D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\refint\algorith
 D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.pdb
 D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.genruntimeconfig.cache
 D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\ref\algorithme.dll
+D:\ZahIhanyTsitoPhone\DevOps_Csharph\algorithme\obj\Debug\net8.0\algorithme.sourcelink.json
